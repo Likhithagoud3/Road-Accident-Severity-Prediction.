@@ -33,6 +33,6 @@ Road-Accident-Severity-Prediction/
 4. data/ (optional) 
 
 
-#Developer: Likhitha Goud
+# Developer: Likhitha Goud
 
 
