@@ -11,16 +11,23 @@ The **Road Accident Severity Prediction App** is a **Machine Learning applicatio
 - Focus on **road safety and preventive measures** 🚦  
 - End-to-end workflow: **data collection → preprocessing → model training → deployment** 🔄
 
----
+
+# Technologies Used
+
+.Python 🐍
+
+.pandas, numpy, scikit-learn for data processing and ML
+
+.Streamlit 🌐 for interactive deployment
+
 ## 📂 Project Structure
 
 Road-Accident-Severity-Prediction/
-│
-├── app.py # Streamlit app for interactive predictions
-├── accident_severity_model.pkl # Pre-trained ML model
-├── requirements.txt # Python dependencies
-├── data/ (optional) # Dataset or instructions to download
-├── README.md # Project documentation
+
+1.app.py # Streamlit app for interactive predictions
+2.accident_severity_model.pkl 
+3.requirements.txt 
+4. data/ (optional) 
 
 
-Developer: Likhitha Goud
+*Developer: Likhitha Goud*
