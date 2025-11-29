@@ -24,10 +24,14 @@ The **Road Accident Severity Prediction App** is a **Machine Learning applicatio
 
 Road-Accident-Severity-Prediction/
 
-1.app.py # Streamlit app for interactive predictions
+1.app.py 
+
 2.accident_severity_model.pkl 
+
 3.requirements.txt 
+
 4. data/ (optional) 
 
 
-*Developer: Likhitha Goud*
+#Developer: Likhitha Goud#
+
